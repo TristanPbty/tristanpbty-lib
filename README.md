@@ -1,28 +1,38 @@
 # TristanPbty's Lib
 
-A shared Rust library for TristanPbty's Horizon native mods.
+A lightweight native library for Horizon mods.
 
-TristanPbty's Lib is a reusable Rust library designed to provide shared functionality and common components for native Horizon mods developed by TristanPbty.
+## Overview
+
+TristanPbty's Lib provides reusable utilities and components designed to simplify the development of native Horizon mods.
 
 ## Features
-- Shared code for multiple Horizon native mods.
-- Reusable Rust components.
-- Centralized functionality.
-- Designed for Horizon native mod development.
-- Lightweight and modular architecture.
 
-## Requirements
-- Rust toolchain.
-- Horizon native mod development environment.
+- Reusable development utilities
+- Shared components for Horizon mods
+- Lightweight implementation
+- Designed for native Horizon mod development
 
-## Usage
+## Compatibility
 
-Add TristanPbty's Lib as a dependency in your Rust project.
+- **Platform:** Horizon
+- **Mod type:** Native mod
+- **Game version:** 26.3
 
-## Credits
+## Installation
 
-Created and maintained by **TristanPbty**.
+Install the `.hnmod` package through a compatible Horizon launcher.
+
+## Source code
+
+The complete source code is available in this repository.
+
+## Author
+
+**TristanPbty**
+
+- GitHub: https://github.com/TristanPbty
 
 ## License
 
-MIT License.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
